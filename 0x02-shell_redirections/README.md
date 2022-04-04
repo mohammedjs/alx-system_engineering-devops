@@ -1,5 +1,5 @@
-This Directory focuses on Shell redirections and it has 20 Examples
-Stars with  Hello, World
+This Directory focuses on Shell redirections and it has 20 Examples.   
+0 with  Hello, World
 1st Confused smiley
 2nd List file
 3rd list two files
